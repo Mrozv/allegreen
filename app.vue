@@ -1,7 +1,3 @@
 <template>
-  <div>
-    <AppHeader />
-    <Test />
-    <AppFooter />
-  </div>
+  <div></div>
 </template>
