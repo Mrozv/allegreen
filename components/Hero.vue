@@ -3,8 +3,8 @@
     <div
       class="align-middle items-center flex flex-col p-4 py-16 text-black gap-4 max-w-[1200px]"
     >
-      <h1 class="font-bold text-4xl">Zielone zakupy, lepszy świat</h1>
-      <p>
+      <h1 class="font-bold text-5xl">Zielone zakupy, lepszy świat</h1>
+      <p class="text-xl text-gray-800">
         Oferujemy produkty eco, lokalne i zrównoważone. Zacznij zmieniać świat
         już dziś!
       </p>
