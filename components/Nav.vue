@@ -44,25 +44,27 @@
         <button class="font-medium cursor-pointer">SZUKAJ</button>
       </div>
       <div class="flex items-center">
-        <ul class="flex gap-4">
+        <ul class="flex gap-8 text-3xl">
           <li>
-            <NuxtLink class="whitespace-nowrap font-thin" to="/">
-              Strona główna
+            <NuxtLink class="flex" to="/">
+              <span class="material-symbols-outlined">home</span>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink class="whitespace-nowrap font-thin" to="/about">
-              Kategorie
+            <NuxtLink class="flex" to="/categories">
+              <span class="material-symbols-outlined">interests</span>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink class="whitespace-nowrap font-thin" to="/discounts">
-              Promocje
+            <NuxtLink class="flex" to="/discounts">
+              <span class="material-symbols-outlined">sell</span>
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink class="whitespace-nowrap font-thin" to="/contact">
-              Kontakt
+            <NuxtLink class="flex" to="/contact">
+              <span class="material-symbols-outlined">
+                connect_without_contact
+              </span>
             </NuxtLink>
           </li>
         </ul>
