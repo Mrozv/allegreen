@@ -1,7 +1,6 @@
 <template>
-  <Nav></Nav>
   <Hero></Hero>
-  <main class="flex flex-col gap-4">
+  <main class="flex flex-col gap-4 min-h-screen bg-blue-50">
     <CardHolder
       section="first"
       title="Popularne produkty"
