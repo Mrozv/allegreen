@@ -10,11 +10,15 @@
       <h1 class="font-bold text-xl text-gray-600">{{ title }}</h1>
       <p class="text-gray-400 text-sm">{{ description }}</p>
       <span class="text-green-600 font-semibold">{{ price }} zł</span>
-      <button
+      <NuxtLink
         class="py-2 px-8 font-medium cursor-pointer bg-green-600 text-white w-fit"
+        :to="{
+          path: `/products/${id}`,
+          query: { title, description, price, imageUrl },
+        }"
       >
         Dodaj do koszyka
-      </button>
+      </NuxtLink>
     </div>
   </li>
 </template>
@@ -36,7 +40,9 @@ const props = defineProps({
   imageUrl: {
     type: String,
   },
+  id: {
+    type: [Number, String],
+    required: true,
+  },
 });
 </script>
-
-<style scoped></style>

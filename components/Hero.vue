@@ -8,11 +8,12 @@
         Oferujemy produkty eco, lokalne i zrównoważone. Zacznij zmieniać świat
         już dziś!
       </p>
-      <button
+      <NuxtLink
         class="py-2 px-8 font-medium cursor-pointer bg-green-600 text-white w-fit"
+        to="/results"
       >
         Przeglądaj produkty
-      </button>
+      </NuxtLink>
     </div>
   </div>
 </template>

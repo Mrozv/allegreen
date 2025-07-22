@@ -9,18 +9,21 @@
           Wyniki wyszukiwania dla: "Materac 140x200"
         </h1>
         <ResultCard
+          id="1"
           title="Materac kieszeniowy 140x200"
           description="Wygodny, elegancki materac najwyższej jakości."
           price="599"
           image-url="mat1.jpg"
         ></ResultCard>
         <ResultCard
+          id="2"
           title="Materac sprężynowy 140x200"
           description="Ekologiczny materac wytworzony z naturalnych materiałów."
           price="999"
           image-url="mat2.jpg"
         ></ResultCard>
         <ResultCard
+          id="3"
           title="Materac kokosowy 140x200"
           description="Wykonany z miękkiego materiału. Idealnie dopasowuje się do kręgosłupa."
           price="899"

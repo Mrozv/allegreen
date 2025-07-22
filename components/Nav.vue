@@ -56,7 +56,7 @@
             </NuxtLink>
           </li>
           <li>
-            <NuxtLink class="whitespace-nowrap font-thin" to="/products">
+            <NuxtLink class="whitespace-nowrap font-thin" to="/discounts">
               Promocje
             </NuxtLink>
           </li>
