@@ -7,13 +7,21 @@
       :style="`background-image: url(images/${imageUrl})`"
     ></div>
     <div class="p-4 flex flex-col gap-2">
-      <h1 class="font-bold text-xl text-gray-600">{{ title }}</h1>
+      <NuxtLink
+        class="font-bold text-xl text-gray-600"
+        :to="{
+          path: `/products/${id}`,
+          query: { title, description, price, imageUrl },
+        }"
+      >
+        {{ title }}
+      </NuxtLink>
       <p class="text-gray-400 text-sm">{{ description }}</p>
       <span class="text-green-600 font-semibold">{{ price }} zł</span>
       <NuxtLink
         class="py-2 px-8 font-medium cursor-pointer bg-green-600 text-white w-fit"
         :to="{
-          path: `/products/${id}`,
+          path: `/cart`,
           query: { title, description, price, imageUrl },
         }"
       >
@@ -24,6 +32,8 @@
 </template>
 
 <script setup>
+import { NuxtLink } from "#components";
+
 const props = defineProps({
   title: {
     type: String,
