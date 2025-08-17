@@ -3,10 +3,10 @@
     class="flex align-middle shadow-xl w-full bg-white rounded overflow-hidden"
   >
     <div
-      class="h-full w-48 bg-cover bg-center"
+      class="h-full w-48 max-sm:w-3/4 max-sm:h-auto bg-cover bg-center"
       :style="`background-image: url(images/${imageUrl})`"
     ></div>
-    <div class="p-4 flex flex-col gap-2">
+    <div class="p-4 flex flex-col gap-2 w-full">
       <NuxtLink
         class="font-bold text-xl text-gray-600"
         :to="{

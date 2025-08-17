@@ -1,14 +1,19 @@
 <template>
   <div class="flex justify-center align-middle">
     <div
-      class="align-middle items-center flex flex-col p-4 text-black gap-4 max-w-[1200px] w-full"
+      class="align-middle items-center flex flex-col p-4 text-black gap-4 max-w-[1200px] w-full max-sm:gap-0"
     >
       <h1
-        :class="['font-bold text-2xl', section === 'second' ? 'w-full' : null]"
+        :class="[
+          'font-bold text-2xl',
+          section === 'second' ? 'w-full' : 'max-sm:w-full',
+        ]"
       >
         {{ title }}
       </h1>
-      <ul class="flex justify-between gap-4 w-full">
+      <ul
+        class="flex justify-between gap-4 w-full max-sm:overflow-auto max-sm:py-8 max-sm:px-4"
+      >
         <PopularCard
           v-if="section === 'first'"
           v-for="(card, idx) in cards"

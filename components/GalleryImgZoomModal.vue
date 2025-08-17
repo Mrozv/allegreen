@@ -1,6 +1,6 @@
 <template>
   <img
-    class="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-3/4 z-999"
+    class="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-3/4 max-sm:w-full z-999"
     :src="`/images/${imageUrl}`"
     alt=""
   />

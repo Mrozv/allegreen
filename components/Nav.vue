@@ -1,9 +1,15 @@
 <template>
   <div class="bg-green-600 flex justify-center align-middle">
     <div
-      class="justify-between align-middle flex p-4 text-white gap-16 w-full max-w-[1200px]"
+      class="justify-between align-middle flex p-4 text-white gap-16 w-full max-w-[1200px] max-sm:flex-col max-sm:gap-4"
     >
-      <span class="text-2xl font-bold">Allegreen</span>
+      <NuxtLink class="w-1/4" to="/">
+        <img
+          class=""
+          src="/public/images/allegreen_logo.png"
+          alt="allegreen logo"
+        />
+      </NuxtLink>
       <div class="flex items-center gap-4 w-full">
         <div
           class="flex justify-between items-center w-full bg-white text-black rounded relative"
@@ -44,7 +50,9 @@
         <button class="font-medium cursor-pointer">SZUKAJ</button>
       </div>
       <div class="flex items-center">
-        <ul class="flex gap-8 text-3xl">
+        <ul
+          class="flex gap-4 text-2xl max-sm:text-4xl max-sm:justify-between max-sm:w-full"
+        >
           <li>
             <NuxtLink class="flex" to="/">
               <span class="material-symbols-outlined">home</span>
@@ -65,6 +73,11 @@
               <span class="material-symbols-outlined">
                 connect_without_contact
               </span>
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink class="flex" to="/auth">
+              <span class="material-symbols-outlined">account_circle</span>
             </NuxtLink>
           </li>
         </ul>

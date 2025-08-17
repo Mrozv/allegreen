@@ -1,5 +1,5 @@
 <template>
-  <div class="w-3/4">
+  <div class="w-3/4 max-sm:w-full">
     <img @click="openModal" :src="`/images/${imageUrl}`" :alt="title" />
     <GalleryImgZoomModal
       v-if="viewModal"

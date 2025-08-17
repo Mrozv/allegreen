@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col align-middle shadow-xl bg-white rounded p-4 gap-4 w-1/4"
+    class="flex flex-col align-middle shadow-xl bg-white rounded p-4 gap-4 w-1/4 max-sm:w-full"
   >
     <div class="flex flex-col gap-2">
       <h1 class="font-bold text-xl">{{ title }}</h1>

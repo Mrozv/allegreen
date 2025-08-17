@@ -1,7 +1,7 @@
 <template>
   <div class="bg-blue-50 flex flex-col items-center">
     <main
-      class="align-middle flex px-4 py-16 text-black gap-4 min-h-screen w-full max-w-[1200px]"
+      class="align-middle flex px-4 py-16 text-black gap-4 min-h-screen w-full max-w-[1200px] max-sm:flex-col"
     >
       <div class="flex flex-col gap-4">
         <h1 class="text-2xl font-bold">Twój koszyk</h1>

@@ -7,7 +7,9 @@ const { title, description, price, imageUrl, id } = route.query;
 
 <template>
   <div class="bg-blue-50 flex flex-col items-center min-h-screen">
-    <main class="flex p-4 py-16 gap-4 max-w-[1200px] h-full items-stretch">
+    <main
+      class="flex p-4 py-16 gap-4 max-w-[1200px] h-full items-stretc max-sm:flex-col"
+    >
       <Gallery
         :title="title"
         :description="description"

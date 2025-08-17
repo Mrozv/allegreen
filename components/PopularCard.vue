@@ -1,5 +1,5 @@
 <template>
-  <li class="flex flex-col align-middle shadow-xl w-full">
+  <li class="flex flex-col align-middle shadow-xl w-full max-sm:min-w-3/4">
     <div
       class="h-48 w-full bg-cover bg-center"
       :style="`background-image: url(images/${imageUrl})`"

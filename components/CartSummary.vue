@@ -1,5 +1,7 @@
 <template>
-  <div class="bg-white w-3/10 p-4 h-fit rounded shadow-xl flex flex-col gap-4">
+  <div
+    class="bg-white w-3/10 p-4 h-fit rounded shadow-xl flex flex-col gap-4 max-sm:w-full"
+  >
     <h1 class="text-xl font-semibold">Podsumowanie</h1>
     <div class="border-b pb-2">
       <div class="flex justify-between">

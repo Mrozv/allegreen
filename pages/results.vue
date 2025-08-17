@@ -1,7 +1,7 @@
 <template>
   <div class="bg-blue-50 flex flex-col items-center">
     <main
-      class="align-middle flex p-4 py-16 text-black gap-4 min-h-screen w-full max-w-[1200px]"
+      class="align-middle flex p-4 py-16 text-black gap-4 min-h-screen w-full max-w-[1200px] max-sm:flex-col"
     >
       <Filters></Filters>
       <div class="w-full flex flex-col gap-4">
