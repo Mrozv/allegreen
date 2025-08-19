@@ -1,0 +1,3152 @@
+[
+  {
+    "id": 1,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 1033.8,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0477_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2018/0477_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0732_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2022/0732_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0797_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2019/0797_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 2,
+    "title": "Gra planszowa rodzinna",
+    "description": "Świetna zabawa dla całej rodziny i znajomych.",
+    "price": 346.81,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0830_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2016/0830_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0624_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2018/0624_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0447_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2022/0447_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0894_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2021/0894_1280.jpg?search=board-game"
+      }
+    ],
+    "categories": ["Rozrywka", "Dom"]
+  },
+  {
+    "id": 3,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 316.4,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0159_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2020/0159_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0738_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2017/0738_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0337_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2016/0337_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0834_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2017/0834_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 4,
+    "title": "Zestaw garnków stalowych",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 99.31,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0371_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2021/0371_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0934_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2018/0934_1280.jpg?search=steel-pots"
+      }
+    ],
+    "categories": ["Kuchnia"]
+  },
+  {
+    "id": 5,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 914.01,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0310_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2020/0310_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0918_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2022/0918_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 6,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 741.22,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0242_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2019/0242_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0134_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2023/0134_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0789_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2020/0789_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 7,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 1163.81,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0929_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0929_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0871_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0871_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0295_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2016/0295_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0870_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0870_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 8,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 877.19,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0249_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2022/0249_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0941_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2018/0941_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 9,
+    "title": "Karma dla psa 10kg",
+    "description": "Wysokiej jakości produkt dla Twojego pupila.",
+    "price": 1161.87,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0413_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2016/0413_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0618_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2016/0618_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0323_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2018/0323_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0389_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2020/0389_1280.jpg?search=dog-food"
+      }
+    ],
+    "categories": ["Zwierzęta"]
+  },
+  {
+    "id": 10,
+    "title": "Masażer karku i pleców",
+    "description": "Produkt wspierający zdrowie i dobre samopoczucie.",
+    "price": 1381.78,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0625_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2017/0625_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0614_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2019/0614_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0925_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2021/0925_1280.jpg?search=neck-massager"
+      }
+    ],
+    "categories": ["Zdrowie", "Uroda"]
+  },
+  {
+    "id": 11,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 307.64,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0131_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2019/0131_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0865_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2019/0865_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0731_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2016/0731_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 12,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 990.67,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0325_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2018/0325_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0831_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2016/0831_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 13,
+    "title": "Karma dla psa 10kg",
+    "description": "Wysokiej jakości produkt dla Twojego pupila.",
+    "price": 489.91,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0199_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2019/0199_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0656_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2022/0656_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0791_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2020/0791_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0407_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2022/0407_1280.jpg?search=dog-food"
+      }
+    ],
+    "categories": ["Zwierzęta"]
+  },
+  {
+    "id": 14,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 175.78,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0793_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2020/0793_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0730_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2022/0730_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 15,
+    "title": "Plecak turystyczny 40L",
+    "description": "Niezastąpiony w podróży i podczas wycieczek.",
+    "price": 1007.81,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0408_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2021/0408_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0423_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2022/0423_1280.jpg?search=hiking-backpack"
+      }
+    ],
+    "categories": ["Turystyka", "Sport"]
+  },
+  {
+    "id": 16,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 400.02,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0902_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2019/0902_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0274_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2022/0274_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0167_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2022/0167_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 17,
+    "title": "Zestaw garnków stalowych",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 641.47,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0861_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2021/0861_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0242_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2018/0242_1280.jpg?search=steel-pots"
+      }
+    ],
+    "categories": ["Kuchnia"]
+  },
+  {
+    "id": 18,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 1124.52,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0166_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2021/0166_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0938_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2022/0938_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0766_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2017/0766_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0440_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2017/0440_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 19,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 831.47,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0318_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2020/0318_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0169_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2020/0169_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0567_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2017/0567_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0384_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2016/0384_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 20,
+    "title": "Gra planszowa rodzinna",
+    "description": "Świetna zabawa dla całej rodziny i znajomych.",
+    "price": 1186.68,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0271_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2021/0271_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0463_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2016/0463_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0549_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2021/0549_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0382_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2023/0382_1280.jpg?search=board-game"
+      }
+    ],
+    "categories": ["Rozrywka", "Dom"]
+  },
+  {
+    "id": 21,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 1043.51,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0343_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2020/0343_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0675_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2022/0675_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0192_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2018/0192_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0672_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2019/0672_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 22,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 243.13,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0447_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2017/0447_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0834_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2022/0834_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0728_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2016/0728_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 23,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 1475.6,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0868_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2020/0868_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0256_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2019/0256_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0275_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2017/0275_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 24,
+    "title": "Plecak turystyczny 40L",
+    "description": "Niezastąpiony w podróży i podczas wycieczek.",
+    "price": 409.61,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0657_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2017/0657_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0694_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2021/0694_1280.jpg?search=hiking-backpack"
+      }
+    ],
+    "categories": ["Turystyka", "Sport"]
+  },
+  {
+    "id": 25,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 468.97,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0558_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2017/0558_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0949_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2018/0949_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 26,
+    "title": "Zestaw garnków stalowych",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 1386.83,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0315_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2016/0315_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0708_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2023/0708_1280.jpg?search=steel-pots"
+      }
+    ],
+    "categories": ["Kuchnia"]
+  },
+  {
+    "id": 27,
+    "title": "Zestaw garnków stalowych",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 1338.71,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0704_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2020/0704_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0948_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2017/0948_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0728_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2022/0728_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0640_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2023/0640_1280.jpg?search=steel-pots"
+      }
+    ],
+    "categories": ["Kuchnia"]
+  },
+  {
+    "id": 28,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 272.28,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0234_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2016/0234_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0998_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2021/0998_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0817_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2021/0817_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 29,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 435.41,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0552_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2017/0552_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0832_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2021/0832_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 30,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 968.88,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0437_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2020/0437_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0196_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2020/0196_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 31,
+    "title": "Pościel bawełniana 160x200",
+    "description": "Wygodna i miękka pościel zapewniająca komfortowy sen.",
+    "price": 771.84,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0635_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2023/0635_1280.jpg?search=bed-linen"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0365_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2019/0365_1280.jpg?search=bed-linen"
+      }
+    ],
+    "categories": ["Sypialnia", "Dom"]
+  },
+  {
+    "id": 32,
+    "title": "Pościel bawełniana 160x200",
+    "description": "Wygodna i miękka pościel zapewniająca komfortowy sen.",
+    "price": 991.52,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0785_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2023/0785_1280.jpg?search=bed-linen"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0163_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2022/0163_1280.jpg?search=bed-linen"
+      }
+    ],
+    "categories": ["Sypialnia", "Dom"]
+  },
+  {
+    "id": 33,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 426.98,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0478_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2021/0478_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0209_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2022/0209_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0147_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0147_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 34,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 824.05,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0967_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2018/0967_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0797_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2022/0797_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0305_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2020/0305_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0679_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2020/0679_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 35,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 158.37,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0548_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2021/0548_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0847_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2022/0847_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 36,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 695.19,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0339_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2018/0339_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0796_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2021/0796_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0986_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2016/0986_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 37,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 270.22,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0651_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2021/0651_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0811_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2023/0811_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0986_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2018/0986_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0823_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2021/0823_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 38,
+    "title": "Karma dla psa 10kg",
+    "description": "Wysokiej jakości produkt dla Twojego pupila.",
+    "price": 188.34,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0848_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2023/0848_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0738_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2016/0738_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0625_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2017/0625_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0488_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2019/0488_1280.jpg?search=dog-food"
+      }
+    ],
+    "categories": ["Zwierzęta"]
+  },
+  {
+    "id": 39,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 1261.64,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0661_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2017/0661_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0444_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2016/0444_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0494_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2022/0494_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 40,
+    "title": "Gra planszowa rodzinna",
+    "description": "Świetna zabawa dla całej rodziny i znajomych.",
+    "price": 129.74,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0263_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2017/0263_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0816_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2023/0816_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0913_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2022/0913_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0762_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2018/0762_1280.jpg?search=board-game"
+      }
+    ],
+    "categories": ["Rozrywka", "Dom"]
+  },
+  {
+    "id": 41,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 1205.13,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0255_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2016/0255_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0639_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2016/0639_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 42,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 438.1,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0648_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2016/0648_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0802_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2016/0802_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0427_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2021/0427_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0681_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2019/0681_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 43,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 919.22,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0371_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2021/0371_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0123_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2019/0123_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0861_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2017/0861_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 44,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 269.78,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0425_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2020/0425_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0487_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2016/0487_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0635_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2016/0635_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0660_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2021/0660_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 45,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 1325.01,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0362_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2016/0362_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0318_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2018/0318_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 46,
+    "title": "Karma dla psa 10kg",
+    "description": "Wysokiej jakości produkt dla Twojego pupila.",
+    "price": 521.16,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0292_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2017/0292_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0123_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2023/0123_1280.jpg?search=dog-food"
+      }
+    ],
+    "categories": ["Zwierzęta"]
+  },
+  {
+    "id": 47,
+    "title": "Pościel bawełniana 160x200",
+    "description": "Wygodna i miękka pościel zapewniająca komfortowy sen.",
+    "price": 709.21,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0888_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2017/0888_1280.jpg?search=bed-linen"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0676_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2017/0676_1280.jpg?search=bed-linen"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0185_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2020/0185_1280.jpg?search=bed-linen"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0780_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2023/0780_1280.jpg?search=bed-linen"
+      }
+    ],
+    "categories": ["Sypialnia", "Dom"]
+  },
+  {
+    "id": 48,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 1447.43,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0662_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2018/0662_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0438_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2021/0438_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 49,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 1028.21,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0543_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2019/0543_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0354_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2020/0354_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 50,
+    "title": "Plecak turystyczny 40L",
+    "description": "Niezastąpiony w podróży i podczas wycieczek.",
+    "price": 187.47,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0152_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2016/0152_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0882_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2018/0882_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0375_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2021/0375_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0678_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2022/0678_1280.jpg?search=hiking-backpack"
+      }
+    ],
+    "categories": ["Turystyka", "Sport"]
+  },
+  {
+    "id": 51,
+    "title": "Zestaw garnków stalowych",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 356.23,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0751_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2018/0751_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0120_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2019/0120_1280.jpg?search=steel-pots"
+      }
+    ],
+    "categories": ["Kuchnia"]
+  },
+  {
+    "id": 52,
+    "title": "Gra planszowa rodzinna",
+    "description": "Świetna zabawa dla całej rodziny i znajomych.",
+    "price": 1354.36,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0949_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2019/0949_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0519_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2023/0519_1280.jpg?search=board-game"
+      }
+    ],
+    "categories": ["Rozrywka", "Dom"]
+  },
+  {
+    "id": 53,
+    "title": "Karma dla psa 10kg",
+    "description": "Wysokiej jakości produkt dla Twojego pupila.",
+    "price": 91.84,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0724_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2023/0724_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0300_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2017/0300_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0710_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2022/0710_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0612_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2019/0612_1280.jpg?search=dog-food"
+      }
+    ],
+    "categories": ["Zwierzęta"]
+  },
+  {
+    "id": 54,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 772.11,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0818_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2023/0818_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0726_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2016/0726_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0557_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2017/0557_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0609_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2019/0609_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 55,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 841.99,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0845_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2018/0845_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0306_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2019/0306_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 56,
+    "title": "Masażer karku i pleców",
+    "description": "Produkt wspierający zdrowie i dobre samopoczucie.",
+    "price": 229.81,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0701_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2017/0701_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0697_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2016/0697_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0775_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2017/0775_1280.jpg?search=neck-massager"
+      }
+    ],
+    "categories": ["Zdrowie", "Uroda"]
+  },
+  {
+    "id": 57,
+    "title": "Gra planszowa rodzinna",
+    "description": "Świetna zabawa dla całej rodziny i znajomych.",
+    "price": 372.7,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0979_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2023/0979_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0260_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2016/0260_1280.jpg?search=board-game"
+      }
+    ],
+    "categories": ["Rozrywka", "Dom"]
+  },
+  {
+    "id": 58,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 1110.62,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0556_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2017/0556_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0664_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2022/0664_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0184_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2018/0184_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0390_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2019/0390_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 59,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 220.57,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0134_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2022/0134_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0132_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2017/0132_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0292_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2018/0292_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 60,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 1204.21,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0934_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2023/0934_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0792_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2023/0792_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0242_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2019/0242_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0152_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2017/0152_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 61,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 689.44,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0931_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2018/0931_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0558_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2022/0558_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0766_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2019/0766_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0628_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2018/0628_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 62,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 871.58,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0245_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2021/0245_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0761_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2016/0761_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0910_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2022/0910_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 63,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 1252.62,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0302_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2019/0302_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0452_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2018/0452_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0429_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2020/0429_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0618_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0618_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 64,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 596.67,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0827_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2021/0827_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0728_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2020/0728_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0619_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2019/0619_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 65,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 1257.88,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0494_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2016/0494_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0756_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2017/0756_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0559_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2018/0559_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 66,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 1005.95,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0509_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2018/0509_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0978_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2021/0978_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0412_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2019/0412_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0772_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2016/0772_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 67,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 1037.63,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0451_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2020/0451_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0723_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2018/0723_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0951_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2019/0951_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 68,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 896.04,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0841_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2016/0841_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0700_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2016/0700_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0767_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2022/0767_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 69,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 341.81,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0266_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2019/0266_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0835_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2018/0835_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0950_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2021/0950_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 70,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 1329.64,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0632_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2021/0632_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0299_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2020/0299_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0309_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2021/0309_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 71,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 905.44,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0168_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2023/0168_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0297_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2022/0297_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0576_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2020/0576_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 72,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 588.15,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0239_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2019/0239_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0968_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2023/0968_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0200_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2023/0200_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 73,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 1108.47,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0501_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2016/0501_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0876_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2016/0876_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 74,
+    "title": "Plecak turystyczny 40L",
+    "description": "Niezastąpiony w podróży i podczas wycieczek.",
+    "price": 167.66,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0943_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2019/0943_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0218_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2016/0218_1280.jpg?search=hiking-backpack"
+      }
+    ],
+    "categories": ["Turystyka", "Sport"]
+  },
+  {
+    "id": 75,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 787.45,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0517_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2019/0517_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0245_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2016/0245_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0300_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2019/0300_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 76,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 1151.21,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0390_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2020/0390_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0600_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0600_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0511_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2018/0511_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0913_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0913_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 77,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 1190.52,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0676_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2016/0676_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0997_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2018/0997_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0371_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2020/0371_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 78,
+    "title": "Masażer karku i pleców",
+    "description": "Produkt wspierający zdrowie i dobre samopoczucie.",
+    "price": 892.77,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0993_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2018/0993_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0220_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2021/0220_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0238_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2022/0238_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0516_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2018/0516_1280.jpg?search=neck-massager"
+      }
+    ],
+    "categories": ["Zdrowie", "Uroda"]
+  },
+  {
+    "id": 79,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 1289.77,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0763_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2020/0763_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0699_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2019/0699_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0791_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2017/0791_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 80,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 575.96,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0775_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2021/0775_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0244_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2018/0244_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0840_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2017/0840_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 81,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 990.18,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0483_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2019/0483_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0192_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2018/0192_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0464_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2023/0464_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0145_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2023/0145_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 82,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 35.67,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0351_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2020/0351_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0501_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2016/0501_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 83,
+    "title": "Gra planszowa rodzinna",
+    "description": "Świetna zabawa dla całej rodziny i znajomych.",
+    "price": 1052.18,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0970_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2023/0970_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0673_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2016/0673_1280.jpg?search=board-game"
+      }
+    ],
+    "categories": ["Rozrywka", "Dom"]
+  },
+  {
+    "id": 84,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 823.06,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0321_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2017/0321_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0261_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2022/0261_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 85,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 705.5,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0695_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2021/0695_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0878_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2018/0878_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0686_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2023/0686_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0990_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2021/0990_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 86,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 591.4,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0642_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2022/0642_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0342_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2019/0342_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0349_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2023/0349_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 87,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 668.94,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0926_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2018/0926_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0961_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2019/0961_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 88,
+    "title": "Plecak turystyczny 40L",
+    "description": "Niezastąpiony w podróży i podczas wycieczek.",
+    "price": 1177.15,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0409_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2023/0409_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0332_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2021/0332_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0908_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2020/0908_1280.jpg?search=hiking-backpack"
+      }
+    ],
+    "categories": ["Turystyka", "Sport"]
+  },
+  {
+    "id": 89,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 683.45,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0158_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2017/0158_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0283_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2022/0283_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 90,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 324.27,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0749_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2019/0749_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0384_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2018/0384_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 91,
+    "title": "Karma dla psa 10kg",
+    "description": "Wysokiej jakości produkt dla Twojego pupila.",
+    "price": 1430.04,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0984_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2023/0984_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0532_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2021/0532_1280.jpg?search=dog-food"
+      }
+    ],
+    "categories": ["Zwierzęta"]
+  },
+  {
+    "id": 92,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 1463.96,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0684_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2016/0684_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0539_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2021/0539_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0281_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2016/0281_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 93,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 915.35,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0153_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2017/0153_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0750_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2017/0750_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0652_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0652_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0972_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0972_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 94,
+    "title": "Karma dla psa 10kg",
+    "description": "Wysokiej jakości produkt dla Twojego pupila.",
+    "price": 1146.77,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0213_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2017/0213_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0757_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2016/0757_1280.jpg?search=dog-food"
+      }
+    ],
+    "categories": ["Zwierzęta"]
+  },
+  {
+    "id": 95,
+    "title": "Pościel bawełniana 160x200",
+    "description": "Wygodna i miękka pościel zapewniająca komfortowy sen.",
+    "price": 343.1,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0729_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2020/0729_1280.jpg?search=bed-linen"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0264_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2019/0264_1280.jpg?search=bed-linen"
+      }
+    ],
+    "categories": ["Sypialnia", "Dom"]
+  },
+  {
+    "id": 96,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 764.62,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0998_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2022/0998_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0476_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2018/0476_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0778_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2018/0778_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0190_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2021/0190_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 97,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 438.03,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0621_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2019/0621_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0114_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2016/0114_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0242_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2021/0242_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0950_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2017/0950_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 98,
+    "title": "Masażer karku i pleców",
+    "description": "Produkt wspierający zdrowie i dobre samopoczucie.",
+    "price": 1341.06,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0321_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2021/0321_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0824_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2021/0824_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0405_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2020/0405_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0304_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2016/0304_1280.jpg?search=neck-massager"
+      }
+    ],
+    "categories": ["Zdrowie", "Uroda"]
+  },
+  {
+    "id": 99,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 1112.47,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0354_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2017/0354_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0783_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2016/0783_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0257_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2017/0257_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 100,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 220.1,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0463_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2023/0463_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0608_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2020/0608_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 101,
+    "title": "Plecak turystyczny 40L",
+    "description": "Niezastąpiony w podróży i podczas wycieczek.",
+    "price": 1306.77,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0952_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2016/0952_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0677_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2019/0677_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0417_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2021/0417_1280.jpg?search=hiking-backpack"
+      }
+    ],
+    "categories": ["Turystyka", "Sport"]
+  },
+  {
+    "id": 102,
+    "title": "Zestaw garnków stalowych",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 781.18,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0397_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2019/0397_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0142_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2017/0142_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0587_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2017/0587_1280.jpg?search=steel-pots"
+      }
+    ],
+    "categories": ["Kuchnia"]
+  },
+  {
+    "id": 103,
+    "title": "Zestaw garnków stalowych",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 1499.25,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0553_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2016/0553_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0357_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2016/0357_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0537_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2019/0537_1280.jpg?search=steel-pots"
+      }
+    ],
+    "categories": ["Kuchnia"]
+  },
+  {
+    "id": 104,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 1232.26,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0353_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2018/0353_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0921_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0921_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 105,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 165.38,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0538_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2016/0538_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0417_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2018/0417_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0917_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2017/0917_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0474_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2020/0474_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 106,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 1355.1,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0253_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2023/0253_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0912_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2020/0912_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 107,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 133.37,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0299_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2019/0299_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0785_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2020/0785_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0201_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2017/0201_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0190_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2019/0190_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 108,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 593.2,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0198_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2023/0198_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0714_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2020/0714_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0234_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2021/0234_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0873_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2018/0873_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 109,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 488.23,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0739_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2022/0739_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0215_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2023/0215_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0113_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2017/0113_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 110,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 767.19,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0942_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2017/0942_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0461_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2021/0461_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0389_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2019/0389_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 111,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 216.02,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0783_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2023/0783_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0399_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2021/0399_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0187_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2016/0187_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 112,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 171.08,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0822_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2018/0822_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0277_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2018/0277_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0399_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2019/0399_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 113,
+    "title": "Wózek dziecięcy 3w1",
+    "description": "Bezpieczny i wygodny produkt dla najmłodszych.",
+    "price": 1279.45,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0206_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2020/0206_1280.jpg?search=baby-stroller"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0866_150.jpg?search=baby-stroller",
+        "full": "https://cdn.pixabay.com/photo/2016/0866_1280.jpg?search=baby-stroller"
+      }
+    ],
+    "categories": ["Dziecko"]
+  },
+  {
+    "id": 114,
+    "title": "Zestaw garnków stalowych",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 1079.09,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0201_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2019/0201_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0735_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2022/0735_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0897_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2016/0897_1280.jpg?search=steel-pots"
+      }
+    ],
+    "categories": ["Kuchnia"]
+  },
+  {
+    "id": 115,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 445.0,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0715_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2018/0715_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0958_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2021/0958_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0987_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2022/0987_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0715_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2023/0715_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 116,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 494.84,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0250_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2021/0250_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0650_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2016/0650_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0372_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2018/0372_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0813_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2018/0813_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 117,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 410.41,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0212_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2020/0212_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0187_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2019/0187_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0714_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2017/0714_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0150_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2017/0150_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 118,
+    "title": "Plecak turystyczny 40L",
+    "description": "Niezastąpiony w podróży i podczas wycieczek.",
+    "price": 627.16,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0640_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2023/0640_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0706_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2023/0706_1280.jpg?search=hiking-backpack"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0129_150.jpg?search=hiking-backpack",
+        "full": "https://cdn.pixabay.com/photo/2021/0129_1280.jpg?search=hiking-backpack"
+      }
+    ],
+    "categories": ["Turystyka", "Sport"]
+  },
+  {
+    "id": 119,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 61.59,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0771_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2017/0771_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0261_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0261_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0463_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2019/0463_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0674_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2017/0674_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 120,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 519.6,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0161_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2023/0161_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0384_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2017/0384_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0172_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2022/0172_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 121,
+    "title": "Masażer karku i pleców",
+    "description": "Produkt wspierający zdrowie i dobre samopoczucie.",
+    "price": 1273.56,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0359_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2016/0359_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0551_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2022/0551_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0917_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2021/0917_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0488_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2020/0488_1280.jpg?search=neck-massager"
+      }
+    ],
+    "categories": ["Zdrowie", "Uroda"]
+  },
+  {
+    "id": 122,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 477.8,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0588_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2018/0588_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0687_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2021/0687_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0240_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2022/0240_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0836_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2023/0836_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 123,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 1089.42,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0651_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2016/0651_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0990_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2018/0990_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0938_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2023/0938_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0221_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2019/0221_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 124,
+    "title": "Smartfon 6.5 cala",
+    "description": "Nowoczesne urządzenie elektroniczne najwyższej jakości.",
+    "price": 132.49,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0625_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2021/0625_1280.jpg?search=smartphone"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0898_150.jpg?search=smartphone",
+        "full": "https://cdn.pixabay.com/photo/2018/0898_1280.jpg?search=smartphone"
+      }
+    ],
+    "categories": ["Elektronika"]
+  },
+  {
+    "id": 125,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 379.04,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0258_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2019/0258_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0800_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2017/0800_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0490_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2020/0490_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0214_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2019/0214_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 126,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 469.38,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0826_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2016/0826_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0475_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2023/0475_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0757_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2020/0757_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 127,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 1231.24,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0430_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2016/0430_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0547_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2019/0547_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 128,
+    "title": "Pościel bawełniana 160x200",
+    "description": "Wygodna i miękka pościel zapewniająca komfortowy sen.",
+    "price": 80.4,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0678_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2016/0678_1280.jpg?search=bed-linen"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0231_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2018/0231_1280.jpg?search=bed-linen"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0821_150.jpg?search=bed-linen",
+        "full": "https://cdn.pixabay.com/photo/2018/0821_1280.jpg?search=bed-linen"
+      }
+    ],
+    "categories": ["Sypialnia", "Dom"]
+  },
+  {
+    "id": 129,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 774.11,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0190_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2019/0190_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0424_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2017/0424_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 130,
+    "title": "Zestaw garnków stalowych",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 1003.1,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0528_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2023/0528_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0963_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2020/0963_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0221_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2018/0221_1280.jpg?search=steel-pots"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0156_150.jpg?search=steel-pots",
+        "full": "https://cdn.pixabay.com/photo/2023/0156_1280.jpg?search=steel-pots"
+      }
+    ],
+    "categories": ["Kuchnia"]
+  },
+  {
+    "id": 131,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 1046.84,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0123_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2022/0123_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0131_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2019/0131_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0182_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2023/0182_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0216_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2020/0216_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 132,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 496.33,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0425_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2020/0425_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0127_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2020/0127_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 133,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 631.94,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0757_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2023/0757_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0970_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2017/0970_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0668_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2017/0668_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 134,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 867.97,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0666_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2023/0666_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0315_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2016/0315_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0254_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2022/0254_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 135,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 1104.44,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0383_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2018/0383_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0215_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2021/0215_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0911_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2023/0911_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 136,
+    "title": "Masażer karku i pleców",
+    "description": "Produkt wspierający zdrowie i dobre samopoczucie.",
+    "price": 428.99,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0831_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2017/0831_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0663_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2023/0663_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0281_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2018/0281_1280.jpg?search=neck-massager"
+      }
+    ],
+    "categories": ["Zdrowie", "Uroda"]
+  },
+  {
+    "id": 137,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 245.22,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0622_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2020/0622_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0882_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2020/0882_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0868_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2016/0868_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 138,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 1392.01,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0558_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2020/0558_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0305_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2017/0305_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0645_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2019/0645_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 139,
+    "title": "Kurtka przeciwdeszczowa XL",
+    "description": "Stylowe i funkcjonalne ubranie na każdą pogodę.",
+    "price": 1039.43,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0775_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2021/0775_1280.jpg?search=rain-jacket"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0674_150.jpg?search=rain-jacket",
+        "full": "https://cdn.pixabay.com/photo/2018/0674_1280.jpg?search=rain-jacket"
+      }
+    ],
+    "categories": ["Moda", "Turystyka"]
+  },
+  {
+    "id": 140,
+    "title": "Rower górski 26 cali",
+    "description": "Idealny sprzęt sportowy dla aktywnych użytkowników.",
+    "price": 785.58,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0884_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2017/0884_1280.jpg?search=mountain-bike"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0960_150.jpg?search=mountain-bike",
+        "full": "https://cdn.pixabay.com/photo/2021/0960_1280.jpg?search=mountain-bike"
+      }
+    ],
+    "categories": ["Sport", "Turystyka"]
+  },
+  {
+    "id": 141,
+    "title": "Masażer karku i pleców",
+    "description": "Produkt wspierający zdrowie i dobre samopoczucie.",
+    "price": 226.97,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0801_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2020/0801_1280.jpg?search=neck-massager"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0855_150.jpg?search=neck-massager",
+        "full": "https://cdn.pixabay.com/photo/2020/0855_1280.jpg?search=neck-massager"
+      }
+    ],
+    "categories": ["Zdrowie", "Uroda"]
+  },
+  {
+    "id": 142,
+    "title": "Karma dla psa 10kg",
+    "description": "Wysokiej jakości produkt dla Twojego pupila.",
+    "price": 139.44,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0455_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2023/0455_1280.jpg?search=dog-food"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0109_150.jpg?search=dog-food",
+        "full": "https://cdn.pixabay.com/photo/2022/0109_1280.jpg?search=dog-food"
+      }
+    ],
+    "categories": ["Zwierzęta"]
+  },
+  {
+    "id": 143,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 1495.08,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0103_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2020/0103_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0759_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2020/0759_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 144,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 1236.64,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0904_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2022/0904_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0716_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2020/0716_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 145,
+    "title": "Krzesło biurowe ergonomiczne",
+    "description": "Ergonomiczne rozwiązanie dla komfortu pracy.",
+    "price": 353.23,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0827_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2017/0827_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0974_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2020/0974_1280.jpg?search=office-chair"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0117_150.jpg?search=office-chair",
+        "full": "https://cdn.pixabay.com/photo/2019/0117_1280.jpg?search=office-chair"
+      }
+    ],
+    "categories": ["Biuro", "Dom"]
+  },
+  {
+    "id": 146,
+    "title": "Mikser ręczny 300W",
+    "description": "Niezastąpiony sprzęt kuchenny w każdej nowoczesnej kuchni.",
+    "price": 575.28,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2018/0332_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2018/0332_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2021/0544_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2021/0544_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0132_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2020/0132_1280.jpg?search=hand-mixer"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0810_150.jpg?search=hand-mixer",
+        "full": "https://cdn.pixabay.com/photo/2023/0810_1280.jpg?search=hand-mixer"
+      }
+    ],
+    "categories": ["Kuchnia", "Dom"]
+  },
+  {
+    "id": 147,
+    "title": "Zestaw narzędzi ogrodowych",
+    "description": "Praktyczny zestaw do pracy w ogrodzie, wykonany z trwałych materiałów.",
+    "price": 1172.51,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0366_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2022/0366_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0734_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2020/0734_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0806_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2020/0806_1280.jpg?search=garden-tools"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2020/0713_150.jpg?search=garden-tools",
+        "full": "https://cdn.pixabay.com/photo/2020/0713_1280.jpg?search=garden-tools"
+      }
+    ],
+    "categories": ["Ogród"]
+  },
+  {
+    "id": 148,
+    "title": "Radio samochodowe Bluetooth",
+    "description": "Nowoczesne akcesorium samochodowe z dodatkowymi funkcjami.",
+    "price": 151.3,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0981_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2019/0981_1280.jpg?search=car-radio"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0289_150.jpg?search=car-radio",
+        "full": "https://cdn.pixabay.com/photo/2016/0289_1280.jpg?search=car-radio"
+      }
+    ],
+    "categories": ["Motoryzacja", "Elektronika"]
+  },
+  {
+    "id": 149,
+    "title": "Zestaw do makijażu 12 elementów",
+    "description": "Kosmetyczny zestaw dla wymagających użytkowników.",
+    "price": 361.87,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0353_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2017/0353_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2019/0350_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2019/0350_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2017/0565_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2017/0565_1280.jpg?search=makeup-kit"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0958_150.jpg?search=makeup-kit",
+        "full": "https://cdn.pixabay.com/photo/2023/0958_1280.jpg?search=makeup-kit"
+      }
+    ],
+    "categories": ["Uroda"]
+  },
+  {
+    "id": 150,
+    "title": "Gra planszowa rodzinna",
+    "description": "Świetna zabawa dla całej rodziny i znajomych.",
+    "price": 902.44,
+    "imageUrl": [
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0106_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2023/0106_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2023/0180_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2023/0180_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2022/0601_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2022/0601_1280.jpg?search=board-game"
+      },
+      {
+        "small": "https://cdn.pixabay.com/photo/2016/0297_150.jpg?search=board-game",
+        "full": "https://cdn.pixabay.com/photo/2016/0297_1280.jpg?search=board-game"
+      }
+    ],
+    "categories": ["Rozrywka", "Dom"]
+  }
+]

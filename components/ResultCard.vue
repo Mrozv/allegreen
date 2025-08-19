@@ -32,8 +32,6 @@
 </template>
 
 <script setup>
-import { NuxtLink } from "#components";
-
 const props = defineProps({
   title: {
     type: String,

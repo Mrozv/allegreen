@@ -6,7 +6,7 @@
     <div class="border-b pb-2">
       <div class="flex justify-between">
         <h2 class="font-regular">Wartość produktów:</h2>
-        <h2 class="font-regular">812,00 zł</h2>
+        <h2 class="font-regular">{{ total.toFixed(2) }} zł</h2>
       </div>
       <div class="flex justify-between">
         <h2 class="font-regular">Dostawa:</h2>
@@ -15,7 +15,7 @@
     </div>
     <div class="flex justify-between">
       <h2 class="font-semibold">Razem:</h2>
-      <h2 class="font-semibold">812,00 zł</h2>
+      <h2 class="font-semibold">{{ total.toFixed(2) }} zł</h2>
     </div>
     <div class="flex flex-col align-middle items-center gap-2">
       <NuxtLink
@@ -30,3 +30,12 @@
     </div>
   </div>
 </template>
+
+<script setup>
+const props = defineProps({
+  total: {
+    type: Number,
+    default: 0,
+  },
+});
+</script>

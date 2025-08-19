@@ -12,24 +12,28 @@
         <p class="text-gray-400 text-sm">{{ description }}</p>
       </div>
       <div
-        class="flex items-center gap-2 max-sm:flex-col max-sm:justify-center"
+        class="flex items-center gap-4 max-sm:flex-col max-sm:justify-center"
       >
-        <button
-          class="bg-green-600 rounded text-white font-semibold py-2 px-4 cursor-pointer"
-        >
-          -
-        </button>
-        <span>1</span>
-        <button
-          class="bg-green-600 rounded text-white font-semibold py-2 px-4 cursor-pointer"
-        >
-          +
-        </button>
         <span
           class="text-green-600 text-nowrap flex items-center font-semibold"
         >
-          {{ price }} zł
+          {{ (price * quantity).toFixed(2) }} zł
         </span>
+        <div class="flex items-center gap-2">
+          <button
+            class="bg-green-600 rounded text-white font-semibold py-2 px-4 cursor-pointer"
+            @click="() => decreaseQuantity(id)"
+          >
+            -
+          </button>
+          <span>{{ quantity }}</span>
+          <button
+            class="bg-green-600 rounded text-white font-semibold py-2 px-4 cursor-pointer"
+            @click="() => increaseQuantity(id)"
+          >
+            +
+          </button>
+        </div>
       </div>
     </div>
   </li>
@@ -46,14 +50,25 @@ const props = defineProps({
     default: "Opis produktu",
   },
   price: {
-    type: [Number, String],
-    default: "Cena produktu",
+    type: Number,
   },
   imageUrl: {
     type: String,
   },
   id: {
-    type: [Number, String],
+    type: [Number],
+    required: true,
+  },
+  quantity: {
+    type: Number,
+    default: 1,
+  },
+  increaseQuantity: {
+    type: Function,
+    required: true,
+  },
+  decreaseQuantity: {
+    type: Function,
     required: true,
   },
 });
