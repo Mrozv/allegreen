@@ -5,33 +5,27 @@
     >
       <Filters></Filters>
       <div class="w-full flex flex-col gap-4">
-        <h1 class="text-2xl font-bold">
-          Wyniki wyszukiwania dla: "Materac 140x200"
+        <h1 class="text-2xl font-bold" v-if="pending">
+          Ładowanie produktów...
         </h1>
+        <h1 class="text-2xl font-bold" v-if="!pending">Lista produktów</h1>
+
         <ResultCard
-          id="1"
-          title="Materac kieszeniowy 140x200"
-          description="Wygodny, elegancki materac najwyższej jakości."
-          price="599"
-          image-url="mat1.jpg"
-        ></ResultCard>
-        <ResultCard
-          id="2"
-          title="Materac sprężynowy 140x200"
-          description="Ekologiczny materac wytworzony z naturalnych materiałów."
-          price="999"
-          image-url="mat2.jpg"
-        ></ResultCard>
-        <ResultCard
-          id="3"
-          title="Materac kokosowy 140x200"
-          description="Wykonany z miękkiego materiału. Idealnie dopasowuje się do kręgosłupa."
-          price="899"
-          image-url="mat3.jpg"
+          v-for="product in products"
+          :key="product.id"
+          :id="product.id"
+          :title="product.title"
+          :description="product.description"
+          :price="product.price"
+          :image-url="product.imageUrl"
         ></ResultCard>
       </div>
     </main>
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+const { data: products, pending } = useLazyFetch("/api/products", {
+  lazy: true,
+});
+</script>
