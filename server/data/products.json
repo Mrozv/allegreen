@@ -22,7 +22,10 @@
         "full": "https://picsum.photos/id/495/600/900"
       }
     ],
-    "categories": ["Dom i Ogród"]
+    "categories": ["Dom i Ogród"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 2,
@@ -47,7 +50,10 @@
         "full": "https://picsum.photos/id/131/600/900"
       }
     ],
-    "categories": ["Dom i Ogród"]
+    "categories": ["Dom i Ogród"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 3,
@@ -64,7 +70,10 @@
         "full": "https://picsum.photos/id/933/600/900"
       }
     ],
-    "categories": ["Odzież", "Turystyka"]
+    "categories": ["Odzież", "Turystyka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 4,
@@ -89,7 +98,10 @@
         "full": "https://picsum.photos/id/704/600/900"
       }
     ],
-    "categories": ["Kosmetyki"]
+    "categories": ["Kosmetyki"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 5,
@@ -114,7 +126,10 @@
         "full": "https://picsum.photos/id/762/600/900"
       }
     ],
-    "categories": ["Kosmetyki"]
+    "categories": ["Kosmetyki"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 6,
@@ -139,7 +154,10 @@
         "full": "https://picsum.photos/id/29/600/900"
       }
     ],
-    "categories": ["Zwierzęta"]
+    "categories": ["Zwierzęta"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 7,
@@ -164,7 +182,10 @@
         "full": "https://picsum.photos/id/56/600/900"
       }
     ],
-    "categories": ["Biuro i dom"]
+    "categories": ["Biuro i dom"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 8,
@@ -185,7 +206,10 @@
         "full": "https://picsum.photos/id/377/600/900"
       }
     ],
-    "categories": ["Kosmetyki"]
+    "categories": ["Kosmetyki"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 9,
@@ -206,7 +230,10 @@
         "full": "https://picsum.photos/id/89/600/900"
       }
     ],
-    "categories": ["Wyposażenie kuchni"]
+    "categories": ["Wyposażenie kuchni"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 10,
@@ -231,7 +258,10 @@
         "full": "https://picsum.photos/id/702/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 11,
@@ -252,7 +282,10 @@
         "full": "https://picsum.photos/id/622/600/900"
       }
     ],
-    "categories": ["Motoryzacja", "Elektronika"]
+    "categories": ["Motoryzacja", "Elektronika"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 12,
@@ -277,7 +310,10 @@
         "full": "https://picsum.photos/id/113/600/900"
       }
     ],
-    "categories": ["Biuro i dom"]
+    "categories": ["Biuro i dom"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 13,
@@ -294,7 +330,10 @@
         "full": "https://picsum.photos/id/585/600/900"
       }
     ],
-    "categories": ["Wyposażenie kuchni"]
+    "categories": ["Wyposażenie kuchni"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 14,
@@ -311,7 +350,10 @@
         "full": "https://picsum.photos/id/444/600/900"
       }
     ],
-    "categories": ["Biuro i dom"]
+    "categories": ["Biuro i dom"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 15,
@@ -332,7 +374,10 @@
         "full": "https://picsum.photos/id/308/600/900"
       }
     ],
-    "categories": ["Wyposażenie kuchni"]
+    "categories": ["Wyposażenie kuchni"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 16,
@@ -353,7 +398,10 @@
         "full": "https://picsum.photos/id/714/600/900"
       }
     ],
-    "categories": ["Rowery"]
+    "categories": ["Rowery"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 17,
@@ -370,7 +418,10 @@
         "full": "https://picsum.photos/id/215/600/900"
       }
     ],
-    "categories": ["Kosmetyki"]
+    "categories": ["Kosmetyki"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 18,
@@ -391,7 +442,10 @@
         "full": "https://picsum.photos/id/712/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 19,
@@ -416,7 +470,10 @@
         "full": "https://picsum.photos/id/977/600/900"
       }
     ],
-    "categories": ["Zdrowie i uroda"]
+    "categories": ["Zdrowie i uroda"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 20,
@@ -441,7 +498,10 @@
         "full": "https://picsum.photos/id/295/600/900"
       }
     ],
-    "categories": ["Gry i Rozrywka"]
+    "categories": ["Gry i Rozrywka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 21,
@@ -458,7 +518,10 @@
         "full": "https://picsum.photos/id/917/600/900"
       }
     ],
-    "categories": ["Dom i Ogród"]
+    "categories": ["Dom i Ogród"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 22,
@@ -483,7 +546,10 @@
         "full": "https://picsum.photos/id/635/600/900"
       }
     ],
-    "categories": ["Kosmetyki"]
+    "categories": ["Kosmetyki"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 23,
@@ -508,7 +574,10 @@
         "full": "https://picsum.photos/id/827/600/900"
       }
     ],
-    "categories": ["Gry i Rozrywka"]
+    "categories": ["Gry i Rozrywka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 24,
@@ -529,7 +598,10 @@
         "full": "https://picsum.photos/id/602/600/900"
       }
     ],
-    "categories": ["Gry i Rozrywka"]
+    "categories": ["Gry i Rozrywka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 25,
@@ -554,7 +626,10 @@
         "full": "https://picsum.photos/id/801/600/900"
       }
     ],
-    "categories": ["Wyposażenie kuchni"]
+    "categories": ["Wyposażenie kuchni"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 26,
@@ -571,7 +646,10 @@
         "full": "https://picsum.photos/id/583/600/900"
       }
     ],
-    "categories": ["Artykuły dla dzieci"]
+    "categories": ["Artykuły dla dzieci"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 27,
@@ -588,7 +666,10 @@
         "full": "https://picsum.photos/id/565/600/900"
       }
     ],
-    "categories": ["Zdrowie i uroda"]
+    "categories": ["Zdrowie i uroda"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 28,
@@ -609,7 +690,10 @@
         "full": "https://picsum.photos/id/971/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 29,
@@ -626,7 +710,10 @@
         "full": "https://picsum.photos/id/960/600/900"
       }
     ],
-    "categories": ["Motoryzacja", "Elektronika"]
+    "categories": ["Motoryzacja", "Elektronika"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 30,
@@ -643,7 +730,10 @@
         "full": "https://picsum.photos/id/658/600/900"
       }
     ],
-    "categories": ["Odzież", "Turystyka"]
+    "categories": ["Odzież", "Turystyka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 31,
@@ -664,7 +754,10 @@
         "full": "https://picsum.photos/id/705/600/900"
       }
     ],
-    "categories": ["Kosmetyki"]
+    "categories": ["Kosmetyki"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 32,
@@ -689,7 +782,10 @@
         "full": "https://picsum.photos/id/593/600/900"
       }
     ],
-    "categories": ["Wyposażenie kuchni"]
+    "categories": ["Wyposażenie kuchni"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 33,
@@ -714,7 +810,10 @@
         "full": "https://picsum.photos/id/824/600/900"
       }
     ],
-    "categories": ["Motoryzacja", "Elektronika"]
+    "categories": ["Motoryzacja", "Elektronika"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 34,
@@ -735,7 +834,10 @@
         "full": "https://picsum.photos/id/748/600/900"
       }
     ],
-    "categories": ["Sypialnia"]
+    "categories": ["Sypialnia"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 35,
@@ -752,7 +854,10 @@
         "full": "https://picsum.photos/id/385/600/900"
       }
     ],
-    "categories": ["Biuro i dom"]
+    "categories": ["Biuro i dom"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 36,
@@ -769,7 +874,10 @@
         "full": "https://picsum.photos/id/525/600/900"
       }
     ],
-    "categories": ["Sypialnia"]
+    "categories": ["Sypialnia"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 37,
@@ -790,7 +898,10 @@
         "full": "https://picsum.photos/id/423/600/900"
       }
     ],
-    "categories": ["Gry i Rozrywka"]
+    "categories": ["Gry i Rozrywka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 38,
@@ -815,7 +926,10 @@
         "full": "https://picsum.photos/id/315/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 39,
@@ -836,7 +950,10 @@
         "full": "https://picsum.photos/id/195/600/900"
       }
     ],
-    "categories": ["Rowery"]
+    "categories": ["Rowery"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 40,
@@ -853,7 +970,10 @@
         "full": "https://picsum.photos/id/925/600/900"
       }
     ],
-    "categories": ["Wyposażenie kuchni"]
+    "categories": ["Wyposażenie kuchni"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 41,
@@ -878,7 +998,10 @@
         "full": "https://picsum.photos/id/81/600/900"
       }
     ],
-    "categories": ["Artykuły dla dzieci"]
+    "categories": ["Artykuły dla dzieci"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 42,
@@ -895,7 +1018,10 @@
         "full": "https://picsum.photos/id/742/600/900"
       }
     ],
-    "categories": ["Odzież", "Turystyka"]
+    "categories": ["Odzież", "Turystyka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 43,
@@ -920,7 +1046,10 @@
         "full": "https://picsum.photos/id/17/600/900"
       }
     ],
-    "categories": ["Zwierzęta"]
+    "categories": ["Zwierzęta"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 44,
@@ -941,7 +1070,10 @@
         "full": "https://picsum.photos/id/23/600/900"
       }
     ],
-    "categories": ["Odzież", "Turystyka"]
+    "categories": ["Odzież", "Turystyka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 45,
@@ -966,7 +1098,10 @@
         "full": "https://picsum.photos/id/232/600/900"
       }
     ],
-    "categories": ["Odzież", "Turystyka"]
+    "categories": ["Odzież", "Turystyka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 46,
@@ -991,7 +1126,10 @@
         "full": "https://picsum.photos/id/642/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 47,
@@ -1008,7 +1146,10 @@
         "full": "https://picsum.photos/id/144/600/900"
       }
     ],
-    "categories": ["Kosmetyki"]
+    "categories": ["Kosmetyki"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 48,
@@ -1033,7 +1174,10 @@
         "full": "https://picsum.photos/id/61/600/900"
       }
     ],
-    "categories": ["Wyposażenie kuchni"]
+    "categories": ["Wyposażenie kuchni"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 49,
@@ -1050,7 +1194,10 @@
         "full": "https://picsum.photos/id/665/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 50,
@@ -1071,7 +1218,10 @@
         "full": "https://picsum.photos/id/955/600/900"
       }
     ],
-    "categories": ["Odzież", "Turystyka"]
+    "categories": ["Odzież", "Turystyka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 51,
@@ -1088,7 +1238,10 @@
         "full": "https://picsum.photos/id/686/600/900"
       }
     ],
-    "categories": ["Rowery"]
+    "categories": ["Rowery"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 52,
@@ -1113,7 +1266,10 @@
         "full": "https://picsum.photos/id/835/600/900"
       }
     ],
-    "categories": ["Zdrowie i uroda"]
+    "categories": ["Zdrowie i uroda"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 53,
@@ -1130,7 +1286,10 @@
         "full": "https://picsum.photos/id/291/600/900"
       }
     ],
-    "categories": ["Sypialnia"]
+    "categories": ["Sypialnia"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 54,
@@ -1155,7 +1314,10 @@
         "full": "https://picsum.photos/id/601/600/900"
       }
     ],
-    "categories": ["Artykuły dla dzieci"]
+    "categories": ["Artykuły dla dzieci"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 55,
@@ -1176,7 +1338,10 @@
         "full": "https://picsum.photos/id/529/600/900"
       }
     ],
-    "categories": ["Zwierzęta"]
+    "categories": ["Zwierzęta"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
 
   {
@@ -1202,7 +1367,10 @@
         "full": "https://picsum.photos/id/285/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 57,
@@ -1223,7 +1391,10 @@
         "full": "https://picsum.photos/id/838/600/900"
       }
     ],
-    "categories": ["Rowery"]
+    "categories": ["Rowery"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 58,
@@ -1240,7 +1411,10 @@
         "full": "https://picsum.photos/id/720/600/900"
       }
     ],
-    "categories": ["Zdrowie i uroda"]
+    "categories": ["Zdrowie i uroda"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 59,
@@ -1261,7 +1435,10 @@
         "full": "https://picsum.photos/id/269/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 60,
@@ -1286,7 +1463,10 @@
         "full": "https://picsum.photos/id/904/600/900"
       }
     ],
-    "categories": ["Sypialnia"]
+    "categories": ["Sypialnia"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 61,
@@ -1303,7 +1483,10 @@
         "full": "https://picsum.photos/id/111/600/900"
       }
     ],
-    "categories": ["Artykuły dla dzieci"]
+    "categories": ["Artykuły dla dzieci"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 62,
@@ -1328,7 +1511,10 @@
         "full": "https://picsum.photos/id/145/600/900"
       }
     ],
-    "categories": ["Gry i Rozrywka"]
+    "categories": ["Gry i Rozrywka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 63,
@@ -1345,7 +1531,10 @@
         "full": "https://picsum.photos/id/471/600/900"
       }
     ],
-    "categories": ["Biuro i dom"]
+    "categories": ["Biuro i dom"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 64,
@@ -1370,7 +1559,10 @@
         "full": "https://picsum.photos/id/562/600/900"
       }
     ],
-    "categories": ["Zwierzęta"]
+    "categories": ["Zwierzęta"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 65,
@@ -1395,7 +1587,10 @@
         "full": "https://picsum.photos/id/111/600/900"
       }
     ],
-    "categories": ["Zdrowie i uroda"]
+    "categories": ["Zdrowie i uroda"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 66,
@@ -1420,7 +1615,10 @@
         "full": "https://picsum.photos/id/175/600/900"
       }
     ],
-    "categories": ["Elektronika", "Sport"]
+    "categories": ["Elektronika", "Sport"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 67,
@@ -1441,7 +1639,10 @@
         "full": "https://picsum.photos/id/560/600/900"
       }
     ],
-    "categories": ["Odzież", "Turystyka"]
+    "categories": ["Odzież", "Turystyka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 68,
@@ -1466,7 +1667,10 @@
         "full": "https://picsum.photos/id/605/600/900"
       }
     ],
-    "categories": ["Artykuły dla dzieci"]
+    "categories": ["Artykuły dla dzieci"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 69,
@@ -1483,7 +1687,10 @@
         "full": "https://picsum.photos/id/818/600/900"
       }
     ],
-    "categories": ["Gry i Rozrywka"]
+    "categories": ["Gry i Rozrywka"],
+    "delivery_free": false,
+    "delivery_till_thuesday": false,
+    "condition": "used"
   },
   {
     "id": 70,
@@ -1508,7 +1715,10 @@
         "full": "https://picsum.photos/id/529/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 71,
@@ -1533,7 +1743,10 @@
         "full": "https://picsum.photos/id/510/600/900"
       }
     ],
-    "categories": ["Rowery"]
+    "categories": ["Rowery"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 72,
@@ -1554,7 +1767,10 @@
         "full": "https://picsum.photos/id/315/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 73,
@@ -1571,7 +1787,10 @@
         "full": "https://picsum.photos/id/385/600/900"
       }
     ],
-    "categories": ["Gry i Rozrywka"]
+    "categories": ["Gry i Rozrywka"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 74,
@@ -1588,7 +1807,10 @@
         "full": "https://picsum.photos/id/541/600/900"
       }
     ],
-    "categories": ["Sypialnia"]
+    "categories": ["Sypialnia"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 75,
@@ -1605,7 +1827,10 @@
         "full": "https://picsum.photos/id/302/600/900"
       }
     ],
-    "categories": ["Zdrowie i uroda"]
+    "categories": ["Zdrowie i uroda"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 76,
@@ -1630,7 +1855,10 @@
         "full": "https://picsum.photos/id/593/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 77,
@@ -1651,7 +1879,10 @@
         "full": "https://picsum.photos/id/705/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 78,
@@ -1672,7 +1903,10 @@
         "full": "https://picsum.photos/id/240/600/900"
       }
     ],
-    "categories": ["Odzież", "Turystyka"]
+    "categories": ["Odzież", "Turystyka"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 79,
@@ -1689,7 +1923,10 @@
         "full": "https://picsum.photos/id/971/600/900"
       }
     ],
-    "categories": ["Kosmetyki"]
+    "categories": ["Kosmetyki"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 80,
@@ -1706,7 +1943,10 @@
         "full": "https://picsum.photos/id/719/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 81,
@@ -1727,7 +1967,10 @@
         "full": "https://picsum.photos/id/656/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 82,
@@ -1744,7 +1987,10 @@
         "full": "https://picsum.photos/id/602/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 83,
@@ -1761,7 +2007,10 @@
         "full": "https://picsum.photos/id/983/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 84,
@@ -1778,7 +2027,10 @@
         "full": "https://picsum.photos/id/801/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 85,
@@ -1795,7 +2047,10 @@
         "full": "https://picsum.photos/id/583/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 86,
@@ -1812,7 +2067,10 @@
         "full": "https://picsum.photos/id/565/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 87,
@@ -1833,7 +2091,10 @@
         "full": "https://picsum.photos/id/971/600/900"
       }
     ],
-    "categories": ["Odzież", "Turystyka"]
+    "categories": ["Odzież", "Turystyka"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 88,
@@ -1850,7 +2111,10 @@
         "full": "https://picsum.photos/id/960/600/900"
       }
     ],
-    "categories": ["Kosmetyki"]
+    "categories": ["Kosmetyki"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 89,
@@ -1867,7 +2131,10 @@
         "full": "https://picsum.photos/id/658/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 90,
@@ -1888,7 +2155,10 @@
         "full": "https://picsum.photos/id/705/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 91,
@@ -1905,7 +2175,10 @@
         "full": "https://picsum.photos/id/229/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 92,
@@ -1922,7 +2195,10 @@
         "full": "https://picsum.photos/id/302/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 93,
@@ -1939,7 +2215,10 @@
         "full": "https://picsum.photos/id/541/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 94,
@@ -1956,7 +2235,10 @@
         "full": "https://picsum.photos/id/385/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 95,
@@ -1973,7 +2255,10 @@
         "full": "https://picsum.photos/id/525/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 96,
@@ -1998,7 +2283,10 @@
         "full": "https://picsum.photos/id/510/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 97,
@@ -2019,7 +2307,10 @@
         "full": "https://picsum.photos/id/315/600/900"
       }
     ],
-    "categories": ["Artykuły dla dzieci"]
+    "categories": ["Artykuły dla dzieci"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 98,
@@ -2040,7 +2331,10 @@
         "full": "https://picsum.photos/id/195/600/900"
       }
     ],
-    "categories": ["Gry i Rozrywka"]
+    "categories": ["Gry i Rozrywka"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 99,
@@ -2061,7 +2355,10 @@
         "full": "https://picsum.photos/id/577/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 100,
@@ -2082,7 +2379,10 @@
         "full": "https://picsum.photos/id/81/600/900"
       }
     ],
-    "categories": ["Artykuły dla dzieci"]
+    "categories": ["Artykuły dla dzieci"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 101,
@@ -2107,7 +2407,10 @@
         "full": "https://picsum.photos/id/60/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 102,
@@ -2124,7 +2427,10 @@
         "full": "https://picsum.photos/id/17/600/900"
       }
     ],
-    "categories": ["Gry i Rozrywka"]
+    "categories": ["Gry i Rozrywka"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 103,
@@ -2141,7 +2447,10 @@
         "full": "https://picsum.photos/id/373/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "used"
   },
   {
     "id": 104,
@@ -2166,7 +2475,10 @@
         "full": "https://picsum.photos/id/503/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 105,
@@ -2183,7 +2495,10 @@
         "full": "https://picsum.photos/id/801/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 106,
@@ -2204,7 +2519,10 @@
         "full": "https://picsum.photos/id/642/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 107,
@@ -2221,7 +2539,10 @@
         "full": "https://picsum.photos/id/144/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 108,
@@ -2242,7 +2563,10 @@
         "full": "https://picsum.photos/id/917/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 109,
@@ -2263,7 +2587,10 @@
         "full": "https://picsum.photos/id/665/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 110,
@@ -2284,7 +2611,10 @@
         "full": "https://picsum.photos/id/955/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 111,
@@ -2301,7 +2631,10 @@
         "full": "https://picsum.photos/id/686/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 112,
@@ -2318,7 +2651,10 @@
         "full": "https://picsum.photos/id/175/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 113,
@@ -2343,7 +2679,10 @@
         "full": "https://picsum.photos/id/291/600/900"
       }
     ],
-    "categories": ["Artykuły dla dzieci"]
+    "categories": ["Artykuły dla dzieci"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 114,
@@ -2364,7 +2703,10 @@
         "full": "https://picsum.photos/id/818/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 115,
@@ -2381,7 +2723,10 @@
         "full": "https://picsum.photos/id/559/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 116,
@@ -2406,7 +2751,10 @@
         "full": "https://picsum.photos/id/842/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 117,
@@ -2423,7 +2771,10 @@
         "full": "https://picsum.photos/id/510/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 118,
@@ -2444,7 +2795,10 @@
         "full": "https://picsum.photos/id/315/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 119,
@@ -2461,7 +2815,10 @@
         "full": "https://picsum.photos/id/385/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 120,
@@ -2482,7 +2839,10 @@
         "full": "https://picsum.photos/id/748/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 121,
@@ -2507,7 +2867,10 @@
         "full": "https://picsum.photos/id/824/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 122,
@@ -2524,7 +2887,10 @@
         "full": "https://picsum.photos/id/229/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 123,
@@ -2541,7 +2907,10 @@
         "full": "https://picsum.photos/id/423/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 124,
@@ -2562,7 +2931,10 @@
         "full": "https://picsum.photos/id/658/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 125,
@@ -2579,7 +2951,10 @@
         "full": "https://picsum.photos/id/932/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 126,
@@ -2600,7 +2975,10 @@
         "full": "https://picsum.photos/id/719/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 127,
@@ -2617,7 +2995,10 @@
         "full": "https://picsum.photos/id/827/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 128,
@@ -2638,7 +3019,10 @@
         "full": "https://picsum.photos/id/602/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 129,
@@ -2655,7 +3039,10 @@
         "full": "https://picsum.photos/id/983/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 130,
@@ -2672,7 +3059,10 @@
         "full": "https://picsum.photos/id/801/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 131,
@@ -2689,7 +3079,10 @@
         "full": "https://picsum.photos/id/583/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 132,
@@ -2706,7 +3099,10 @@
         "full": "https://picsum.photos/id/565/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 133,
@@ -2723,7 +3119,10 @@
         "full": "https://picsum.photos/id/932/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 134,
@@ -2744,7 +3143,10 @@
         "full": "https://picsum.photos/id/960/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 135,
@@ -2761,7 +3163,10 @@
         "full": "https://picsum.photos/id/658/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 136,
@@ -2778,7 +3183,10 @@
         "full": "https://picsum.photos/id/423/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 137,
@@ -2795,7 +3203,10 @@
         "full": "https://picsum.photos/id/564/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 138,
@@ -2816,7 +3227,10 @@
         "full": "https://picsum.photos/id/593/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 139,
@@ -2833,7 +3247,10 @@
         "full": "https://picsum.photos/id/302/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 140,
@@ -2850,7 +3267,10 @@
         "full": "https://picsum.photos/id/824/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 141,
@@ -2871,7 +3291,10 @@
         "full": "https://picsum.photos/id/748/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 142,
@@ -2888,7 +3311,10 @@
         "full": "https://picsum.photos/id/385/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 143,
@@ -2905,7 +3331,10 @@
         "full": "https://picsum.photos/id/525/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 144,
@@ -2926,7 +3355,10 @@
         "full": "https://picsum.photos/id/423/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 145,
@@ -2943,7 +3375,10 @@
         "full": "https://picsum.photos/id/896/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 146,
@@ -2960,7 +3395,10 @@
         "full": "https://picsum.photos/id/315/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 147,
@@ -2977,7 +3415,10 @@
         "full": "https://picsum.photos/id/409/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 148,
@@ -2998,7 +3439,10 @@
         "full": "https://picsum.photos/id/925/600/900"
       }
     ],
-    "categories": ["Turystyka i Sport"]
+    "categories": ["Turystyka i Sport"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 149,
@@ -3019,7 +3463,10 @@
         "full": "https://picsum.photos/id/875/600/900"
       }
     ],
-    "categories": ["Elektronika"]
+    "categories": ["Elektronika"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   },
   {
     "id": 150,
@@ -3044,6 +3491,9 @@
         "full": "https://picsum.photos/id/454/600/900"
       }
     ],
-    "categories": ["Elektronika", "Biuro"]
+    "categories": ["Elektronika", "Biuro"],
+    "delivery_free": true,
+    "delivery_till_thuesday": true,
+    "condition": "new"
   }
 ]
