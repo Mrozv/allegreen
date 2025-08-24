@@ -33,10 +33,12 @@ const itemPerPage = 20;
 const displayedItems = ref([]);
 
 const loadMoreItems = () => {
-  displayedItems.value = products.value.slice(
-    0,
-    displayedItems.value.length + itemPerPage
-  );
+  if (products.value) {
+    displayedItems.value = products.value.slice(
+      0,
+      displayedItems.value.length + itemPerPage
+    );
+  }
 };
 
 onMounted(() => {
