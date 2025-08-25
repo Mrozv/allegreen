@@ -70,7 +70,7 @@ watch(imageSrc, (val) => {
   imgSrc.value = val;
 });
 
-function onImgError(e) {
+function onImgError() {
   imgSrc.value = fallbackImg;
 }
 </script>

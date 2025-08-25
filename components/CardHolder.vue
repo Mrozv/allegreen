@@ -21,7 +21,7 @@
           :title="card.title"
           :description="card.description"
           :price="card.price"
-          :image-url="card.imageUrl"
+          :image-url="card.imageUrl[0].small"
         />
         <SmallCard
           v-if="section === 'second'"
@@ -29,7 +29,7 @@
           :key="idx"
           :title="card.title"
           :price="card.price"
-          :image-url="card.imageUrl"
+          :image-url="card.imageUrl[0].small"
         />
       </ul>
     </div>

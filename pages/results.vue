@@ -1,6 +1,31 @@
-<script setup>
-import { ref, computed, onMounted } from "vue";
+<template>
+  <div class="bg-blue-50 flex flex-col items-center">
+    <main
+      class="align-middle flex p-4 py-16 text-black gap-4 min-h-screen w-full max-w-[1200px] max-sm:flex-col"
+    >
+      <Filters v-model:filters="filters" />
 
+      <div class="w-full flex flex-col gap-4">
+        <h1 class="text-2xl font-bold" v-if="pending">
+          Ładowanie produktów...
+        </h1>
+        <h1 class="text-2xl font-bold" v-else>Lista produktów</h1>
+
+        <ResultCard
+          v-for="product in displayedItems"
+          :key="product.id"
+          :id="product.id"
+          :title="product.title"
+          :description="product.description"
+          :price="product.price"
+          :image-url="product.imageUrl"
+        />
+      </div>
+    </main>
+  </div>
+</template>
+
+<script setup>
 const { data: products, pending } = useLazyFetch("/api/products", {
   lazy: true,
 });
@@ -39,7 +64,6 @@ const loadMoreItems = () => {
   displayedItems.value.push(...filteredProducts.value.slice(start, end));
 };
 
-// gdy zmienią się filtry → resetuj listę i ładuj od nowa
 watch(filteredProducts, () => {
   displayedItems.value = [];
   loadMoreItems();
@@ -47,9 +71,7 @@ watch(filteredProducts, () => {
 
 onMounted(() => {
   loadMoreItems();
-  const sentinel = document.createElement("div");
-  sentinel.id = "sentinel";
-  document.body.appendChild(sentinel);
+  const sentinel = document.querySelector("#sentinel");
 
   const observer = new IntersectionObserver((entries) => {
     if (entries[0].isIntersecting) {
@@ -59,30 +81,3 @@ onMounted(() => {
   observer.observe(sentinel);
 });
 </script>
-
-<template>
-  <div class="bg-blue-50 flex flex-col items-center">
-    <main
-      class="align-middle flex p-4 py-16 text-black gap-4 min-h-screen w-full max-w-[1200px] max-sm:flex-col"
-    >
-      <Filters v-model:filters="filters" />
-
-      <div class="w-full flex flex-col gap-4">
-        <h1 class="text-2xl font-bold" v-if="pending">
-          Ładowanie produktów...
-        </h1>
-        <h1 class="text-2xl font-bold" v-else>Lista produktów</h1>
-
-        <ResultCard
-          v-for="product in displayedItems"
-          :key="product.id"
-          :id="product.id"
-          :title="product.title"
-          :description="product.description"
-          :price="product.price"
-          :image-url="product.imageUrl"
-        />
-      </div>
-    </main>
-  </div>
-</template>
